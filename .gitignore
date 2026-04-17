@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Data (BIG)
+data/
+datasets/
+
+# Models / weights
+outputs/
+*.pth
+
+# Results (optional, you can keep or remove)
+results/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Torch cache
+.cache/
